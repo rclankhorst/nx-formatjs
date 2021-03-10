@@ -1,7 +1,5 @@
 # nx-formatjs
 
----
-
 **Using @nrwl/nx with FormatJS, React and react-intl.**
 
 ## What can I do with this thing?
