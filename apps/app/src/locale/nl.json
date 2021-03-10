@@ -1,0 +1,78 @@
+{
+  "22d67": [
+    {
+      "type": 0,
+      "value": "Volgende stappen"
+    }
+  ],
+  "39fad": [
+    {
+      "type": 0,
+      "value": "Afhankelijkheidsgrafiek bekijken"
+    }
+  ],
+  "4733a": [
+    {
+      "type": 0,
+      "value": "React-ontwikkeling opschalen met Nx (cursus)"
+    }
+  ],
+  "4bd62": [
+    {
+      "type": 0,
+      "value": "Hier zijn enkele links om u op weg te helpen"
+    }
+  ],
+  "57a86": [
+    {
+      "type": 0,
+      "value": "Nx Cloud"
+    }
+  ],
+  "67f2a": [
+    {
+      "type": 0,
+      "value": "Hier zijn enkele acties die u kunt doen met Nx."
+    }
+  ],
+  "68a87": [
+    {
+      "type": 0,
+      "value": "Als je Nx leuk vindt, geef het dan een ster: "
+    },
+    {
+      "type": 1,
+      "value": "star"
+    }
+  ],
+  "77245": [
+    {
+      "type": 0,
+      "value": "Bronnen en hulpmiddelen"
+    }
+  ],
+  "82d2a": [
+    {
+      "type": 0,
+      "value": "Interactieve tutorial"
+    }
+  ],
+  "d1800": [
+    {
+      "type": 0,
+      "value": "Bedankt voor het gebruiken en ♥ tonen voor Nx."
+    }
+  ],
+  "f5e0b": [
+    {
+      "type": 0,
+      "value": "Betrokken opdrachten uitvoeren"
+    }
+  ],
+  "fbe30": [
+    {
+      "type": 0,
+      "value": "UI-bibliotheek toevoegen"
+    }
+  ]
+}
