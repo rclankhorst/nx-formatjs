@@ -30,8 +30,7 @@
             "tsConfig": "apps/app/tsconfig.app.json",
             "assets": ["apps/app/src/favicon.ico", "apps/app/src/assets"],
             "styles": [],
-            "scripts": [],
-            "webpackConfig": "@nrwl/react/plugins/webpack"
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -75,6 +74,18 @@
           "options": {
             "jestConfig": "apps/app/jest.config.js",
             "passWithNoTests": true
+          }
+        },
+        "extract": {
+          "builder": "@nrwl/workspace:run-commands",
+          "options": {
+            "command": "formatjs extract \"./apps/app/src/**/*.ts*\" --out-file \"./apps/app/locale/extracted/en.json\" --format lokalise"
+          }
+        },
+        "ingest": {
+          "builder": "@nrwl/workspace:run-commands",
+          "options": {
+            "command": "formatjs compile \"./apps/app/locale/{args.locale}.json\" --out-file \"./apps/app/src/locale/{args.locale}.json\" --format \"./tools/scripts/formatjs-compile.js\" --ast"
           }
         }
       }
