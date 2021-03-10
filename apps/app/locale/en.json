@@ -1,38 +1,41 @@
 {
-    "d1800": {
-        "translation": "Thank you for using and showing some ♥ for Nx."
-    },
-    "22d67": {
-        "translation": "Next Steps"
-    },
-    "39fad": {
-        "translation": "View dependency graph"
-    },
-    "4733a": {
-        "translation": "Scale React Development with Nx (Course)"
-    },
-    "4bd62": {
-        "translation": "Here are some links to help you get started.Input"
-    },
-    "57a86": {
-        "translation": "Nx Cloud"
-    },
-    "67f2a": {
-        "translation": "Here are some things you can do with Nx."
-    },
-    "68a87": {
-        "translation": "If you like Nx, please give it a star: {star}"
-    },
-    "77245": {
-        "translation": "Resources & Tools"
-    },
-    "82d2a": {
+    "4EIqCd": {
         "translation": "Interactive tutorial"
     },
-    "f5e0b": {
+    "7HAf54": {
+        "translation": "Nx Cloud"
+    },
+    "DrP3j9": {
+        "translation": "Next Steps"
+    },
+    "E4pHJj": {
+        "translation": "Here are some links to help you get started.Input"
+    },
+    "E9tSTp": {
+        "translation": "View dependency graph"
+    },
+    "OuCpHm": {
+        "translation": "If you like Nx, please give it a star: {star}"
+    },
+    "Z0jTUw": {
         "translation": "Run affected commands"
     },
-    "fbe30": {
+    "a0aPA8": {
+        "translation": "Thank you for using and showing some ♥ for Nx."
+    },
+    "implicitid": {
+        "translation": "This is a test-line and has an implicit ID, even though it's against the rules."
+    },
+    "nWzD+d": {
+        "translation": "Scale React Development with Nx (Course)"
+    },
+    "txCuEx": {
+        "translation": "Here are some things you can do with Nx."
+    },
+    "xc3CIr": {
         "translation": "Add UI library"
+    },
+    "ywhsA6": {
+        "translation": "Resources & Tools"
     }
 }

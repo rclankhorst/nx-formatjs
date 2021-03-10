@@ -1,38 +1,41 @@
 {
-    "d1800": {
-        "translation": "Bedankt voor het gebruiken en ♥ tonen voor Nx."
-    },
-    "22d67": {
-        "translation": "Volgende stappen"
-    },
-    "39fad": {
-        "translation": "Afhankelijkheidsgrafiek bekijken"
-    },
-    "4733a": {
-        "translation": "React-ontwikkeling opschalen met Nx (cursus)"
-    },
-    "4bd62": {
-        "translation": "Hier zijn enkele links om u op weg te helpen"
-    },
-    "57a86": {
-        "translation": "Nx Cloud"
-    },
-    "67f2a": {
-        "translation": "Hier zijn enkele acties die u kunt doen met Nx."
-    },
-    "68a87": {
-        "translation": "Als je Nx leuk vindt, geef het dan een ster: {star}"
-    },
-    "77245": {
-        "translation": "Bronnen en hulpmiddelen"
-    },
-    "82d2a": {
+    "4EIqCd": {
         "translation": "Interactieve tutorial"
     },
-    "f5e0b": {
+    "7HAf54": {
+        "translation": "Nx Cloud"
+    },
+    "DrP3j9": {
+        "translation": "Volgende stappen"
+    },
+    "E4pHJj": {
+        "translation": "Hier zijn enkele links om u op weg te helpen"
+    },
+    "E9tSTp": {
+        "translation": "Afhankelijkheidsgrafiek bekijken"
+    },
+    "OuCpHm": {
+        "translation": "Als je Nx leuk vindt, geef het dan een ster: {star}"
+    },
+    "Z0jTUw": {
         "translation": "Betrokken opdrachten uitvoeren"
     },
-    "fbe30": {
+    "a0aPA8": {
+        "translation": "Bedankt voor het gebruiken en ♥ tonen voor Nx."
+    },
+    "implicitid": {
+        "translation": "Dit is een testregel en heeft een impliciete ID, ook al is dat tegen de regels."
+    },
+    "nWzD+d": {
+        "translation": "React-ontwikkeling opschalen met Nx (cursus)"
+    },
+    "txCuEx": {
+        "translation": "Hier zijn enkele acties die u kunt doen met Nx."
+    },
+    "xc3CIr": {
         "translation": "UI-bibliotheek toevoegen"
+    },
+    "ywhsA6": {
+        "translation": "Bronnen en hulpmiddelen"
     }
 }

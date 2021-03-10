@@ -14,6 +14,14 @@ export const Main = () => {
       </h2>
       <p>
         {formatMessage({
+          defaultMessage:
+            "This is a test-line and has an implicit ID, even though it's against the rules.",
+          id: 'implicitid',
+          description: 'Main: ',
+        })}
+      </p>
+      <p>
+        {formatMessage({
           defaultMessage: 'Thank you for using and showing some ♥ for Nx.',
           description: 'Thanks for sharing',
         })}

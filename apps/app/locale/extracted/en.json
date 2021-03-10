@@ -1,50 +1,54 @@
 {
-  "22d67": {
-    "notes": "Main: ",
-    "translation": "Next Steps"
-  },
-  "39fad": {
-    "notes": "Main: Input",
-    "translation": "View dependency graph"
-  },
-  "4733a": {
-    "notes": "Main: ",
-    "translation": "Scale React Development with Nx (Course)"
-  },
-  "4bd62": {
-    "notes": "Main: Here are some links to help you get started.Input",
-    "translation": "Here are some links to help you get started.Input"
-  },
-  "57a86": {
-    "notes": "Main: ",
-    "translation": "Nx Cloud"
-  },
-  "67f2a": {
-    "notes": "Main: Input",
-    "translation": "Here are some things you can do with Nx."
-  },
-  "68a87": {
-    "notes": "Main: If you like Nx, please give it a star: {star}",
-    "translation": "If you like Nx, please give it a star: {star}"
-  },
-  "77245": {
-    "notes": "Main: Resources & Tools",
-    "translation": "Resources & Tools"
-  },
-  "82d2a": {
+  "4EIqCd": {
     "notes": "Main: Input",
     "translation": "Interactive tutorial"
   },
-  "d1800": {
-    "notes": "Thanks for sharing",
-    "translation": "Thank you for using and showing some ♥ for Nx."
+  "7HAf54": {
+    "notes": "Main: ",
+    "translation": "Nx Cloud"
   },
-  "f5e0b": {
+  "DrP3j9": {
+    "notes": "Main: ",
+    "translation": "Next Steps"
+  },
+  "E4pHJj": {
+    "notes": "Main: Here are some links to help you get started.Input",
+    "translation": "Here are some links to help you get started.Input"
+  },
+  "E9tSTp": {
+    "notes": "Main: Input",
+    "translation": "View dependency graph"
+  },
+  "OuCpHm": {
+    "notes": "Main: If you like Nx, please give it a star: {star}",
+    "translation": "If you like Nx, please give it a star: {star}"
+  },
+  "Z0jTUw": {
     "notes": "Main: Input",
     "translation": "Run affected commands"
   },
-  "fbe30": {
+  "a0aPA8": {
+    "notes": "Thanks for sharing",
+    "translation": "Thank you for using and showing some ♥ for Nx."
+  },
+  "implicitid": {
+    "notes": "Main: ",
+    "translation": "This is a test-line and has an implicit ID, even though it's against the rules."
+  },
+  "nWzD+d": {
+    "notes": "Main: ",
+    "translation": "Scale React Development with Nx (Course)"
+  },
+  "txCuEx": {
+    "notes": "Main: Input",
+    "translation": "Here are some things you can do with Nx."
+  },
+  "xc3CIr": {
     "notes": "Main: Input",
     "translation": "Add UI library"
+  },
+  "ywhsA6": {
+    "notes": "Main: Resources & Tools",
+    "translation": "Resources & Tools"
   }
 }

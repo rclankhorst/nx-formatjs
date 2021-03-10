@@ -1,41 +1,35 @@
 {
-  "22d67": [
+  "4EIqCd": [
     {
       "type": 0,
-      "value": "Next Steps"
+      "value": "Interactive tutorial"
     }
   ],
-  "39fad": [
-    {
-      "type": 0,
-      "value": "View dependency graph"
-    }
-  ],
-  "4733a": [
-    {
-      "type": 0,
-      "value": "Scale React Development with Nx (Course)"
-    }
-  ],
-  "4bd62": [
-    {
-      "type": 0,
-      "value": "Here are some links to help you get started.Input"
-    }
-  ],
-  "57a86": [
+  "7HAf54": [
     {
       "type": 0,
       "value": "Nx Cloud"
     }
   ],
-  "67f2a": [
+  "DrP3j9": [
     {
       "type": 0,
-      "value": "Here are some things you can do with Nx."
+      "value": "Next Steps"
     }
   ],
-  "68a87": [
+  "E4pHJj": [
+    {
+      "type": 0,
+      "value": "Here are some links to help you get started.Input"
+    }
+  ],
+  "E9tSTp": [
+    {
+      "type": 0,
+      "value": "View dependency graph"
+    }
+  ],
+  "OuCpHm": [
     {
       "type": 0,
       "value": "If you like Nx, please give it a star: "
@@ -45,34 +39,46 @@
       "value": "star"
     }
   ],
-  "77245": [
-    {
-      "type": 0,
-      "value": "Resources & Tools"
-    }
-  ],
-  "82d2a": [
-    {
-      "type": 0,
-      "value": "Interactive tutorial"
-    }
-  ],
-  "d1800": [
-    {
-      "type": 0,
-      "value": "Thank you for using and showing some ♥ for Nx."
-    }
-  ],
-  "f5e0b": [
+  "Z0jTUw": [
     {
       "type": 0,
       "value": "Run affected commands"
     }
   ],
-  "fbe30": [
+  "a0aPA8": [
+    {
+      "type": 0,
+      "value": "Thank you for using and showing some ♥ for Nx."
+    }
+  ],
+  "implicitid": [
+    {
+      "type": 0,
+      "value": "This is a test-line and has an implicit ID, even though it's against the rules."
+    }
+  ],
+  "nWzD+d": [
+    {
+      "type": 0,
+      "value": "Scale React Development with Nx (Course)"
+    }
+  ],
+  "txCuEx": [
+    {
+      "type": 0,
+      "value": "Here are some things you can do with Nx."
+    }
+  ],
+  "xc3CIr": [
     {
       "type": 0,
       "value": "Add UI library"
+    }
+  ],
+  "ywhsA6": [
+    {
+      "type": 0,
+      "value": "Resources & Tools"
     }
   ]
 }

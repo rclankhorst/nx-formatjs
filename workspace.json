@@ -72,7 +72,7 @@
         "extract": {
           "builder": "@nrwl/workspace:run-commands",
           "options": {
-            "command": "formatjs extract \"./apps/app/src/**/*.ts*\" --out-file \"./apps/app/locale/extracted/en.json\" --format lokalise"
+            "command": "formatjs extract \"./apps/app/src/**/*.ts*\" --out-file \"./apps/app/locale/extracted/en.json\" --format lokalise --id-interpolation-pattern \"[sha512:contenthash:base64:6]\""
           }
         },
         "ingest": {
